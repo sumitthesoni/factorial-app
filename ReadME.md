@@ -166,13 +166,7 @@ dist
   * `node_modules/`
   * `venv/`
   * `dist/`
-
----
-
-## 📷 Screenshots (Optional)
-
-*Add screenshots here*
-
+
 ---
 
 ## 🤝 Contributing
